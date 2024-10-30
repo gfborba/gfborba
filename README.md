@@ -16,7 +16,11 @@
   <img alt="HTML" height="30" width="30" src="https://media.discordapp.net/attachments/1301051684705013825/1301061173428490323/bat.gif?ex=67231b24&is=6721c9a4&hm=5e3898443e6f662a41bf2ed47e78a27fdbb92a95ed8a5d60e91471200e3486a3&=">
 </div>
 
-![Snake animation](https://github.com/gfborba/gfborba/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gfborba/gfborba/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gfborba/gfborba/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gfborba/gfborba/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 

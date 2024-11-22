@@ -9,11 +9,7 @@
   <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<div> 
-  <a href = "guifborba@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/guilherme-f-borba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img alt="HTML" height="30" width="30" src="https://media.discordapp.net/attachments/1301051684705013825/1301061173428490323/bat.gif?ex=67231b24&is=6721c9a4&hm=5e3898443e6f662a41bf2ed47e78a27fdbb92a95ed8a5d60e91471200e3486a3&=">
-</div>
+
 
 
 
